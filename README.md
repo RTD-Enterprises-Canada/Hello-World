@@ -10,4 +10,4 @@ The owner of RTD Enterprises is Roger Duquette who has a background in business 
 Project List:
     001.  Pet Quest (Http://pet-quest.com)
     002.  Open Learning Institute (http://oli.rtd-enterprises-canada.net)
-    003.  Pilot Base (http://pilot-base.rtd-enterprises-canada.net)
+    003.  Pilot Base (http://pilotbase.rtd-enterprises-canada.net)
